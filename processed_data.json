@@ -1,0 +1,2358 @@
+{
+  "gbd_summary": [
+    {
+      "risk_factor": "Metabolic risks",
+      "death_val": 602566.8396723141,
+      "burden_share": 0.3849520813
+    },
+    {
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 419925.5215127529,
+      "burden_share": 0.2682709915
+    },
+    {
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 163894.7490462211,
+      "burden_share": 0.104704774
+    },
+    {
+      "risk_factor": "High body-mass index",
+      "death_val": 153938.8009340568,
+      "burden_share": 0.0983443793
+    },
+    {
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 118832.9650871471,
+      "burden_share": 0.0759168846
+    },
+    {
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 106144.6222010984,
+      "burden_share": 0.0678108893
+    }
+  ],
+  "gbd_by_state": [
+    {
+      "location_name": "Alabama",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 3222.8915993789
+    },
+    {
+      "location_name": "Alabama",
+      "risk_factor": "High body-mass index",
+      "death_val": 3371.0300247157
+    },
+    {
+      "location_name": "Alabama",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 2311.8004234064
+    },
+    {
+      "location_name": "Alabama",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 8546.7481007524
+    },
+    {
+      "location_name": "Alabama",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 1968.4110549069
+    },
+    {
+      "location_name": "Alabama",
+      "risk_factor": "Metabolic risks",
+      "death_val": 12053.609627921
+    },
+    {
+      "location_name": "Alaska",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 245.4685222981
+    },
+    {
+      "location_name": "Alaska",
+      "risk_factor": "High body-mass index",
+      "death_val": 234.4632227857
+    },
+    {
+      "location_name": "Alaska",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 151.1025294457
+    },
+    {
+      "location_name": "Alaska",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 570.0890585627
+    },
+    {
+      "location_name": "Alaska",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 134.9505461772
+    },
+    {
+      "location_name": "Alaska",
+      "risk_factor": "Metabolic risks",
+      "death_val": 835.7763835317
+    },
+    {
+      "location_name": "Arizona",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 3314.5732896604
+    },
+    {
+      "location_name": "Arizona",
+      "risk_factor": "High body-mass index",
+      "death_val": 3279.2690418425
+    },
+    {
+      "location_name": "Arizona",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 2407.2754645277
+    },
+    {
+      "location_name": "Arizona",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 9054.103725795
+    },
+    {
+      "location_name": "Arizona",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 2212.0893068006
+    },
+    {
+      "location_name": "Arizona",
+      "risk_factor": "Metabolic risks",
+      "death_val": 12816.3765451064
+    },
+    {
+      "location_name": "Arkansas",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 2120.1179616558
+    },
+    {
+      "location_name": "Arkansas",
+      "risk_factor": "High body-mass index",
+      "death_val": 2086.6890924496
+    },
+    {
+      "location_name": "Arkansas",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 1456.9691334779
+    },
+    {
+      "location_name": "Arkansas",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 5271.2439217957
+    },
+    {
+      "location_name": "Arkansas",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 1280.7957322616
+    },
+    {
+      "location_name": "Arkansas",
+      "risk_factor": "Metabolic risks",
+      "death_val": 7567.5473227935
+    },
+    {
+      "location_name": "California",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 16048.9379848166
+    },
+    {
+      "location_name": "California",
+      "risk_factor": "High body-mass index",
+      "death_val": 13875.3419871409
+    },
+    {
+      "location_name": "California",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 11286.6540827383
+    },
+    {
+      "location_name": "California",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 41453.6152712881
+    },
+    {
+      "location_name": "California",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 10711.3956805156
+    },
+    {
+      "location_name": "California",
+      "risk_factor": "Metabolic risks",
+      "death_val": 59268.3944819131
+    },
+    {
+      "location_name": "Colorado",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 1911.4764831612
+    },
+    {
+      "location_name": "Colorado",
+      "risk_factor": "High body-mass index",
+      "death_val": 1672.922113434
+    },
+    {
+      "location_name": "Colorado",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 1276.9427413793
+    },
+    {
+      "location_name": "Colorado",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 5007.7654690823
+    },
+    {
+      "location_name": "Colorado",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 1236.7182887589
+    },
+    {
+      "location_name": "Colorado",
+      "risk_factor": "Metabolic risks",
+      "death_val": 7139.9931945934
+    },
+    {
+      "location_name": "Connecticut",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 1595.1172407566
+    },
+    {
+      "location_name": "Connecticut",
+      "risk_factor": "High body-mass index",
+      "death_val": 1304.8650867529
+    },
+    {
+      "location_name": "Connecticut",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 1164.4992962235
+    },
+    {
+      "location_name": "Connecticut",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 4008.1541989073
+    },
+    {
+      "location_name": "Connecticut",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 1103.8570388953
+    },
+    {
+      "location_name": "Connecticut",
+      "risk_factor": "Metabolic risks",
+      "death_val": 5804.3695410545
+    },
+    {
+      "location_name": "Delaware",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 557.3635939733
+    },
+    {
+      "location_name": "Delaware",
+      "risk_factor": "High body-mass index",
+      "death_val": 499.8024769044
+    },
+    {
+      "location_name": "Delaware",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 436.3343445314
+    },
+    {
+      "location_name": "Delaware",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 1423.9700430801
+    },
+    {
+      "location_name": "Delaware",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 374.876203801
+    },
+    {
+      "location_name": "Delaware",
+      "risk_factor": "Metabolic risks",
+      "death_val": 2059.757193303
+    },
+    {
+      "location_name": "District of Columbia",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 252.0046585251
+    },
+    {
+      "location_name": "District of Columbia",
+      "risk_factor": "High body-mass index",
+      "death_val": 309.4606319158
+    },
+    {
+      "location_name": "District of Columbia",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 164.5559134832
+    },
+    {
+      "location_name": "District of Columbia",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 728.2907540437
+    },
+    {
+      "location_name": "District of Columbia",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 147.6848506597
+    },
+    {
+      "location_name": "District of Columbia",
+      "risk_factor": "Metabolic risks",
+      "death_val": 1000.3230285573
+    },
+    {
+      "location_name": "Florida",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 12723.9173254982
+    },
+    {
+      "location_name": "Florida",
+      "risk_factor": "High body-mass index",
+      "death_val": 10566.2311668027
+    },
+    {
+      "location_name": "Florida",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 9504.8950001328
+    },
+    {
+      "location_name": "Florida",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 32505.6239566888
+    },
+    {
+      "location_name": "Florida",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 8468.9619041419
+    },
+    {
+      "location_name": "Florida",
+      "risk_factor": "Metabolic risks",
+      "death_val": 46518.0650225379
+    },
+    {
+      "location_name": "Georgia",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 4816.9428092398
+    },
+    {
+      "location_name": "Georgia",
+      "risk_factor": "High body-mass index",
+      "death_val": 5698.3523090185
+    },
+    {
+      "location_name": "Georgia",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 3378.9506463746
+    },
+    {
+      "location_name": "Georgia",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 13625.3639768634
+    },
+    {
+      "location_name": "Georgia",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 2894.2546072634
+    },
+    {
+      "location_name": "Georgia",
+      "risk_factor": "Metabolic risks",
+      "death_val": 18900.7072028602
+    },
+    {
+      "location_name": "Hawaii",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 660.5641153663
+    },
+    {
+      "location_name": "Hawaii",
+      "risk_factor": "High body-mass index",
+      "death_val": 493.6481164196
+    },
+    {
+      "location_name": "Hawaii",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 504.1171058144
+    },
+    {
+      "location_name": "Hawaii",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 1700.9461351645
+    },
+    {
+      "location_name": "Hawaii",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 440.1334014157
+    },
+    {
+      "location_name": "Hawaii",
+      "risk_factor": "Metabolic risks",
+      "death_val": 2447.6679536386
+    },
+    {
+      "location_name": "Idaho",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 763.523200512
+    },
+    {
+      "location_name": "Idaho",
+      "risk_factor": "High body-mass index",
+      "death_val": 710.1790524829
+    },
+    {
+      "location_name": "Idaho",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 570.472631696
+    },
+    {
+      "location_name": "Idaho",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 2037.9884476708
+    },
+    {
+      "location_name": "Idaho",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 512.2928564804
+    },
+    {
+      "location_name": "Idaho",
+      "risk_factor": "Metabolic risks",
+      "death_val": 2913.3842234677
+    },
+    {
+      "location_name": "Illinois",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 6193.3760982264
+    },
+    {
+      "location_name": "Illinois",
+      "risk_factor": "High body-mass index",
+      "death_val": 6003.8190243685
+    },
+    {
+      "location_name": "Illinois",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 4608.6666622449
+    },
+    {
+      "location_name": "Illinois",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 15890.4765291335
+    },
+    {
+      "location_name": "Illinois",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 4054.8639839505
+    },
+    {
+      "location_name": "Illinois",
+      "risk_factor": "Metabolic risks",
+      "death_val": 22853.0589822377
+    },
+    {
+      "location_name": "Indiana",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 3538.5030659997
+    },
+    {
+      "location_name": "Indiana",
+      "risk_factor": "High body-mass index",
+      "death_val": 3369.0274777608
+    },
+    {
+      "location_name": "Indiana",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 2629.6263098169
+    },
+    {
+      "location_name": "Indiana",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 8866.5412253314
+    },
+    {
+      "location_name": "Indiana",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 2308.1657359093
+    },
+    {
+      "location_name": "Indiana",
+      "risk_factor": "Metabolic risks",
+      "death_val": 12849.9768555779
+    },
+    {
+      "location_name": "Iowa",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 1818.399474234
+    },
+    {
+      "location_name": "Iowa",
+      "risk_factor": "High body-mass index",
+      "death_val": 1671.5866913113
+    },
+    {
+      "location_name": "Iowa",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 1360.9132078303
+    },
+    {
+      "location_name": "Iowa",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 4469.3464565412
+    },
+    {
+      "location_name": "Iowa",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 1245.3347671679
+    },
+    {
+      "location_name": "Iowa",
+      "risk_factor": "Metabolic risks",
+      "death_val": 6561.2184057326
+    },
+    {
+      "location_name": "Kansas",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 1511.6876324576
+    },
+    {
+      "location_name": "Kansas",
+      "risk_factor": "High body-mass index",
+      "death_val": 1413.2885885928
+    },
+    {
+      "location_name": "Kansas",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 1146.1049769492
+    },
+    {
+      "location_name": "Kansas",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 3876.9301163517
+    },
+    {
+      "location_name": "Kansas",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 1041.2772080023
+    },
+    {
+      "location_name": "Kansas",
+      "risk_factor": "Metabolic risks",
+      "death_val": 5616.7858906477
+    },
+    {
+      "location_name": "Kentucky",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 2819.7675742534
+    },
+    {
+      "location_name": "Kentucky",
+      "risk_factor": "High body-mass index",
+      "death_val": 2693.1224852793
+    },
+    {
+      "location_name": "Kentucky",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 1997.8741024917
+    },
+    {
+      "location_name": "Kentucky",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 6822.0465316537
+    },
+    {
+      "location_name": "Kentucky",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 1727.24181234
+    },
+    {
+      "location_name": "Kentucky",
+      "risk_factor": "Metabolic risks",
+      "death_val": 9916.6720534746
+    },
+    {
+      "location_name": "Louisiana",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 2811.7576817543
+    },
+    {
+      "location_name": "Louisiana",
+      "risk_factor": "High body-mass index",
+      "death_val": 2939.0948173152
+    },
+    {
+      "location_name": "Louisiana",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 2004.0348087545
+    },
+    {
+      "location_name": "Louisiana",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 7289.7296190855
+    },
+    {
+      "location_name": "Louisiana",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 1747.7046843227
+    },
+    {
+      "location_name": "Louisiana",
+      "risk_factor": "Metabolic risks",
+      "death_val": 10338.7987482156
+    },
+    {
+      "location_name": "Maine",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 798.5142798167
+    },
+    {
+      "location_name": "Maine",
+      "risk_factor": "High body-mass index",
+      "death_val": 746.0208930929
+    },
+    {
+      "location_name": "Maine",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 599.6373531069
+    },
+    {
+      "location_name": "Maine",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 2111.9839123566
+    },
+    {
+      "location_name": "Maine",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 566.1830081583
+    },
+    {
+      "location_name": "Maine",
+      "risk_factor": "Metabolic risks",
+      "death_val": 3029.9933561489
+    },
+    {
+      "location_name": "Maryland",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 2864.4892337348
+    },
+    {
+      "location_name": "Maryland",
+      "risk_factor": "High body-mass index",
+      "death_val": 2759.3389077514
+    },
+    {
+      "location_name": "Maryland",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 2123.184559531
+    },
+    {
+      "location_name": "Maryland",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 7453.7165956719
+    },
+    {
+      "location_name": "Maryland",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 1869.9895374295
+    },
+    {
+      "location_name": "Maryland",
+      "risk_factor": "Metabolic risks",
+      "death_val": 10677.7818622472
+    },
+    {
+      "location_name": "Massachusetts",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 2844.1553608951
+    },
+    {
+      "location_name": "Massachusetts",
+      "risk_factor": "High body-mass index",
+      "death_val": 2285.9416639795
+    },
+    {
+      "location_name": "Massachusetts",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 2033.6326046898
+    },
+    {
+      "location_name": "Massachusetts",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 7024.0026071977
+    },
+    {
+      "location_name": "Massachusetts",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 2111.1533324403
+    },
+    {
+      "location_name": "Massachusetts",
+      "risk_factor": "Metabolic risks",
+      "death_val": 10326.7865025044
+    },
+    {
+      "location_name": "Michigan",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 6055.8350455697
+    },
+    {
+      "location_name": "Michigan",
+      "risk_factor": "High body-mass index",
+      "death_val": 6146.9615819608
+    },
+    {
+      "location_name": "Michigan",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 4515.9310135106
+    },
+    {
+      "location_name": "Michigan",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 15931.9338638896
+    },
+    {
+      "location_name": "Michigan",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 4031.481731182
+    },
+    {
+      "location_name": "Michigan",
+      "risk_factor": "Metabolic risks",
+      "death_val": 22698.8502416249
+    },
+    {
+      "location_name": "Minnesota",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 2111.1065885481
+    },
+    {
+      "location_name": "Minnesota",
+      "risk_factor": "High body-mass index",
+      "death_val": 1880.7363016188
+    },
+    {
+      "location_name": "Minnesota",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 1624.0257135358
+    },
+    {
+      "location_name": "Minnesota",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 5543.1563770316
+    },
+    {
+      "location_name": "Minnesota",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 1505.3147026592
+    },
+    {
+      "location_name": "Minnesota",
+      "risk_factor": "Metabolic risks",
+      "death_val": 8025.0621780517
+    },
+    {
+      "location_name": "Mississippi",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 2012.3169492092
+    },
+    {
+      "location_name": "Mississippi",
+      "risk_factor": "High body-mass index",
+      "death_val": 2314.8338724561
+    },
+    {
+      "location_name": "Mississippi",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 1392.676481918
+    },
+    {
+      "location_name": "Mississippi",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 5460.8189347591
+    },
+    {
+      "location_name": "Mississippi",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 1200.1956522888
+    },
+    {
+      "location_name": "Mississippi",
+      "risk_factor": "Metabolic risks",
+      "death_val": 7626.0553573887
+    },
+    {
+      "location_name": "Missouri",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 3695.3022992524
+    },
+    {
+      "location_name": "Missouri",
+      "risk_factor": "High body-mass index",
+      "death_val": 3376.0644391966
+    },
+    {
+      "location_name": "Missouri",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 2656.0639272047
+    },
+    {
+      "location_name": "Missouri",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 8864.379106953
+    },
+    {
+      "location_name": "Missouri",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 2351.6934038362
+    },
+    {
+      "location_name": "Missouri",
+      "risk_factor": "Metabolic risks",
+      "death_val": 12998.3992749199
+    },
+    {
+      "location_name": "Montana",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 582.7442955816
+    },
+    {
+      "location_name": "Montana",
+      "risk_factor": "High body-mass index",
+      "death_val": 481.1674185826
+    },
+    {
+      "location_name": "Montana",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 391.9247234405
+    },
+    {
+      "location_name": "Montana",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 1367.637357408
+    },
+    {
+      "location_name": "Montana",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 375.9180747742
+    },
+    {
+      "location_name": "Montana",
+      "risk_factor": "Metabolic risks",
+      "death_val": 2016.1409945372
+    },
+    {
+      "location_name": "Nebraska",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 858.1502917478
+    },
+    {
+      "location_name": "Nebraska",
+      "risk_factor": "High body-mass index",
+      "death_val": 807.4305345032
+    },
+    {
+      "location_name": "Nebraska",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 668.4213963473
+    },
+    {
+      "location_name": "Nebraska",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 2279.7958960528
+    },
+    {
+      "location_name": "Nebraska",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 604.2661063523
+    },
+    {
+      "location_name": "Nebraska",
+      "risk_factor": "Metabolic risks",
+      "death_val": 3278.0099385751
+    },
+    {
+      "location_name": "Nevada",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 1530.8299027029
+    },
+    {
+      "location_name": "Nevada",
+      "risk_factor": "High body-mass index",
+      "death_val": 1716.2835747343
+    },
+    {
+      "location_name": "Nevada",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 1072.7460565906
+    },
+    {
+      "location_name": "Nevada",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 4238.1404244618
+    },
+    {
+      "location_name": "Nevada",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 935.8855980202
+    },
+    {
+      "location_name": "Nevada",
+      "risk_factor": "Metabolic risks",
+      "death_val": 5926.0876525019
+    },
+    {
+      "location_name": "New Hampshire",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 694.9976838668
+    },
+    {
+      "location_name": "New Hampshire",
+      "risk_factor": "High body-mass index",
+      "death_val": 588.005075118
+    },
+    {
+      "location_name": "New Hampshire",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 507.6171639857
+    },
+    {
+      "location_name": "New Hampshire",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 1743.874004874
+    },
+    {
+      "location_name": "New Hampshire",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 479.2225246151
+    },
+    {
+      "location_name": "New Hampshire",
+      "risk_factor": "Metabolic risks",
+      "death_val": 2537.6809737185
+    },
+    {
+      "location_name": "New Jersey",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 4074.9674896457
+    },
+    {
+      "location_name": "New Jersey",
+      "risk_factor": "High body-mass index",
+      "death_val": 3430.0672789994
+    },
+    {
+      "location_name": "New Jersey",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 2971.2248973416
+    },
+    {
+      "location_name": "New Jersey",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 10211.5474332206
+    },
+    {
+      "location_name": "New Jersey",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 2888.0725734125
+    },
+    {
+      "location_name": "New Jersey",
+      "risk_factor": "Metabolic risks",
+      "death_val": 14832.4028236809
+    },
+    {
+      "location_name": "New Mexico",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 1093.2296268541
+    },
+    {
+      "location_name": "New Mexico",
+      "risk_factor": "High body-mass index",
+      "death_val": 857.4233757933
+    },
+    {
+      "location_name": "New Mexico",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 764.8473414903
+    },
+    {
+      "location_name": "New Mexico",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 2555.0637462797
+    },
+    {
+      "location_name": "New Mexico",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 705.4755379969
+    },
+    {
+      "location_name": "New Mexico",
+      "risk_factor": "Metabolic risks",
+      "death_val": 3769.605828941
+    },
+    {
+      "location_name": "New York",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 10022.137312305
+    },
+    {
+      "location_name": "New York",
+      "risk_factor": "High body-mass index",
+      "death_val": 9042.7581119315
+    },
+    {
+      "location_name": "New York",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 6943.0069210494
+    },
+    {
+      "location_name": "New York",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 24665.9082620413
+    },
+    {
+      "location_name": "New York",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 6796.230470451
+    },
+    {
+      "location_name": "New York",
+      "risk_factor": "Metabolic risks",
+      "death_val": 35871.7400630999
+    },
+    {
+      "location_name": "North Carolina",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 5438.8954228589
+    },
+    {
+      "location_name": "North Carolina",
+      "risk_factor": "High body-mass index",
+      "death_val": 4761.2681185299
+    },
+    {
+      "location_name": "North Carolina",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 3955.3814163962
+    },
+    {
+      "location_name": "North Carolina",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 13132.5367729743
+    },
+    {
+      "location_name": "North Carolina",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 3384.3195939394
+    },
+    {
+      "location_name": "North Carolina",
+      "risk_factor": "Metabolic risks",
+      "death_val": 19143.9454293389
+    },
+    {
+      "location_name": "North Dakota",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 345.7271197622
+    },
+    {
+      "location_name": "North Dakota",
+      "risk_factor": "High body-mass index",
+      "death_val": 316.3230928327
+    },
+    {
+      "location_name": "North Dakota",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 256.7638677961
+    },
+    {
+      "location_name": "North Dakota",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 870.59410293
+    },
+    {
+      "location_name": "North Dakota",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 234.3137866893
+    },
+    {
+      "location_name": "North Dakota",
+      "risk_factor": "Metabolic risks",
+      "death_val": 1264.7293887339
+    },
+    {
+      "location_name": "Ohio",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 6943.6014925128
+    },
+    {
+      "location_name": "Ohio",
+      "risk_factor": "High body-mass index",
+      "death_val": 6519.9290939575
+    },
+    {
+      "location_name": "Ohio",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 5294.0552187052
+    },
+    {
+      "location_name": "Ohio",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 17620.9301369747
+    },
+    {
+      "location_name": "Ohio",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 4634.3560661306
+    },
+    {
+      "location_name": "Ohio",
+      "risk_factor": "Metabolic risks",
+      "death_val": 25452.7928739059
+    },
+    {
+      "location_name": "Oklahoma",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 2070.29767571
+    },
+    {
+      "location_name": "Oklahoma",
+      "risk_factor": "High body-mass index",
+      "death_val": 3584.8242012854
+    },
+    {
+      "location_name": "Oklahoma",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 1497.3243230865
+    },
+    {
+      "location_name": "Oklahoma",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 7652.1164264097
+    },
+    {
+      "location_name": "Oklahoma",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 1331.1855550141
+    },
+    {
+      "location_name": "Oklahoma",
+      "risk_factor": "Metabolic risks",
+      "death_val": 9945.5879049668
+    },
+    {
+      "location_name": "Oregon",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 1851.8501325304
+    },
+    {
+      "location_name": "Oregon",
+      "risk_factor": "High body-mass index",
+      "death_val": 1599.5812544909
+    },
+    {
+      "location_name": "Oregon",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 1375.5983476362
+    },
+    {
+      "location_name": "Oregon",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 4881.8684549154
+    },
+    {
+      "location_name": "Oregon",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 1242.9954216363
+    },
+    {
+      "location_name": "Oregon",
+      "risk_factor": "Metabolic risks",
+      "death_val": 7011.1906013047
+    },
+    {
+      "location_name": "Pennsylvania",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 7160.8268950333
+    },
+    {
+      "location_name": "Pennsylvania",
+      "risk_factor": "High body-mass index",
+      "death_val": 6208.2418538302
+    },
+    {
+      "location_name": "Pennsylvania",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 5361.6383257901
+    },
+    {
+      "location_name": "Pennsylvania",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 17717.1603386509
+    },
+    {
+      "location_name": "Pennsylvania",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 4933.9677587432
+    },
+    {
+      "location_name": "Pennsylvania",
+      "risk_factor": "Metabolic risks",
+      "death_val": 25825.0683100054
+    },
+    {
+      "location_name": "Rhode Island",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 595.642986256
+    },
+    {
+      "location_name": "Rhode Island",
+      "risk_factor": "High body-mass index",
+      "death_val": 468.790629362
+    },
+    {
+      "location_name": "Rhode Island",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 440.6715385993
+    },
+    {
+      "location_name": "Rhode Island",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 1438.5290540072
+    },
+    {
+      "location_name": "Rhode Island",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 431.4784083113
+    },
+    {
+      "location_name": "Rhode Island",
+      "risk_factor": "Metabolic risks",
+      "death_val": 2116.6272246209
+    },
+    {
+      "location_name": "South Carolina",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 2825.5680458359
+    },
+    {
+      "location_name": "South Carolina",
+      "risk_factor": "High body-mass index",
+      "death_val": 2813.7908844015
+    },
+    {
+      "location_name": "South Carolina",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 2071.2385274017
+    },
+    {
+      "location_name": "South Carolina",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 7331.4960751464
+    },
+    {
+      "location_name": "South Carolina",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 1764.5930105135
+    },
+    {
+      "location_name": "South Carolina",
+      "risk_factor": "Metabolic risks",
+      "death_val": 10483.1049999671
+    },
+    {
+      "location_name": "South Dakota",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 437.2768625895
+    },
+    {
+      "location_name": "South Dakota",
+      "risk_factor": "High body-mass index",
+      "death_val": 383.1645446065
+    },
+    {
+      "location_name": "South Dakota",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 319.7983440611
+    },
+    {
+      "location_name": "South Dakota",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 1058.6110595813
+    },
+    {
+      "location_name": "South Dakota",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 293.8960852472
+    },
+    {
+      "location_name": "South Dakota",
+      "risk_factor": "Metabolic risks",
+      "death_val": 1558.7567817539
+    },
+    {
+      "location_name": "Tennessee",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 4459.1133766202
+    },
+    {
+      "location_name": "Tennessee",
+      "risk_factor": "High body-mass index",
+      "death_val": 4491.0593925175
+    },
+    {
+      "location_name": "Tennessee",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 3061.1766445359
+    },
+    {
+      "location_name": "Tennessee",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 11314.5215041093
+    },
+    {
+      "location_name": "Tennessee",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 2683.7245310866
+    },
+    {
+      "location_name": "Tennessee",
+      "risk_factor": "Metabolic risks",
+      "death_val": 16127.3135943583
+    },
+    {
+      "location_name": "Texas",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 12643.9391480769
+    },
+    {
+      "location_name": "Texas",
+      "risk_factor": "High body-mass index",
+      "death_val": 12506.5144460694
+    },
+    {
+      "location_name": "Texas",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 9029.6283884522
+    },
+    {
+      "location_name": "Texas",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 31969.6559882193
+    },
+    {
+      "location_name": "Texas",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 6483.7502729461
+    },
+    {
+      "location_name": "Texas",
+      "risk_factor": "Metabolic risks",
+      "death_val": 45472.5380445517
+    },
+    {
+      "location_name": "Utah",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 965.4502680608
+    },
+    {
+      "location_name": "Utah",
+      "risk_factor": "High body-mass index",
+      "death_val": 883.1883839029
+    },
+    {
+      "location_name": "Utah",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 718.0225583086
+    },
+    {
+      "location_name": "Utah",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 2576.5979066576
+    },
+    {
+      "location_name": "Utah",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 659.3738635402
+    },
+    {
+      "location_name": "Utah",
+      "risk_factor": "Metabolic risks",
+      "death_val": 3672.2737037503
+    },
+    {
+      "location_name": "Vermont",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 357.3800921544
+    },
+    {
+      "location_name": "Vermont",
+      "risk_factor": "High body-mass index",
+      "death_val": 318.0387933692
+    },
+    {
+      "location_name": "Vermont",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 252.2565014384
+    },
+    {
+      "location_name": "Vermont",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 910.4930501892
+    },
+    {
+      "location_name": "Vermont",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 241.0820938243
+    },
+    {
+      "location_name": "Vermont",
+      "risk_factor": "Metabolic risks",
+      "death_val": 1313.3275397121
+    },
+    {
+      "location_name": "Virginia",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 4042.4675102633
+    },
+    {
+      "location_name": "Virginia",
+      "risk_factor": "High body-mass index",
+      "death_val": 3437.3060660118
+    },
+    {
+      "location_name": "Virginia",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 2985.9999441734
+    },
+    {
+      "location_name": "Virginia",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 9729.1469836164
+    },
+    {
+      "location_name": "Virginia",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 2633.039799967
+    },
+    {
+      "location_name": "Virginia",
+      "risk_factor": "Metabolic risks",
+      "death_val": 14290.7223289527
+    },
+    {
+      "location_name": "Washington",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 3135.9008221601
+    },
+    {
+      "location_name": "Washington",
+      "risk_factor": "High body-mass index",
+      "death_val": 2877.7579590809
+    },
+    {
+      "location_name": "Washington",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 2235.2446044057
+    },
+    {
+      "location_name": "Washington",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 7963.4940402724
+    },
+    {
+      "location_name": "Washington",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 2032.1406294495
+    },
+    {
+      "location_name": "Washington",
+      "risk_factor": "Metabolic risks",
+      "death_val": 11541.0507908458
+    },
+    {
+      "location_name": "West Virginia",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 1288.5365500493
+    },
+    {
+      "location_name": "West Virginia",
+      "risk_factor": "High body-mass index",
+      "death_val": 1219.597786646
+    },
+    {
+      "location_name": "West Virginia",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 962.8472192205
+    },
+    {
+      "location_name": "West Virginia",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 3172.3753098575
+    },
+    {
+      "location_name": "West Virginia",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 846.3498089641
+    },
+    {
+      "location_name": "West Virginia",
+      "risk_factor": "Metabolic risks",
+      "death_val": 4607.191920706
+    },
+    {
+      "location_name": "Wisconsin",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 2915.1215308387
+    },
+    {
+      "location_name": "Wisconsin",
+      "risk_factor": "High body-mass index",
+      "death_val": 2699.4498613799
+    },
+    {
+      "location_name": "Wisconsin",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 2221.462599221
+    },
+    {
+      "location_name": "Wisconsin",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 7358.0306392702
+    },
+    {
+      "location_name": "Wisconsin",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 2120.1352423004
+    },
+    {
+      "location_name": "Wisconsin",
+      "risk_factor": "Metabolic risks",
+      "death_val": 10755.0373058136
+    },
+    {
+      "location_name": "Wyoming",
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 251.9864434109
+    },
+    {
+      "location_name": "Wyoming",
+      "risk_factor": "High body-mass index",
+      "death_val": 224.7481347712
+    },
+    {
+      "location_name": "Wyoming",
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 167.127182858
+    },
+    {
+      "location_name": "Wyoming",
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 626.4316089818
+    },
+    {
+      "location_name": "Wyoming",
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 161.8283554079
+    },
+    {
+      "location_name": "Wyoming",
+      "risk_factor": "Metabolic risks",
+      "death_val": 908.5012239215
+    }
+  ],
+  "gbd_by_year": [
+    {
+      "year": 2023,
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 163894.7490462211
+    },
+    {
+      "year": 2023,
+      "risk_factor": "High body-mass index",
+      "death_val": 153938.8009340568
+    },
+    {
+      "year": 2023,
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 118832.9650871471
+    },
+    {
+      "year": 2023,
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 419925.5215127529
+    },
+    {
+      "year": 2023,
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 106144.6222010984
+    },
+    {
+      "year": 2023,
+      "risk_factor": "Metabolic risks",
+      "death_val": 602566.8396723141
+    }
+  ],
+  "trials_by_risk_factor": [
+    {
+      "risk_factor": "High LDL cholesterol",
+      "trial_count": 78,
+      "trial_share": 0.0836012862
+    },
+    {
+      "risk_factor": "High body-mass index",
+      "trial_count": 35,
+      "trial_share": 0.0375133976
+    },
+    {
+      "risk_factor": "High fasting plasma glucose",
+      "trial_count": 65,
+      "trial_share": 0.0696677385
+    },
+    {
+      "risk_factor": "High systolic blood pressure",
+      "trial_count": 243,
+      "trial_share": 0.2604501608
+    },
+    {
+      "risk_factor": "Kidney dysfunction",
+      "trial_count": 98,
+      "trial_share": 0.1050375134
+    },
+    {
+      "risk_factor": "Metabolic risks",
+      "trial_count": 414,
+      "trial_share": 0.4437299035
+    }
+  ],
+  "trials_by_phase": [
+    {
+      "risk_factor": "High LDL cholesterol",
+      "phase": "EARLY_PHASE1",
+      "count": 5
+    },
+    {
+      "risk_factor": "High LDL cholesterol",
+      "phase": "PHASE1",
+      "count": 15
+    },
+    {
+      "risk_factor": "High LDL cholesterol",
+      "phase": "PHASE2",
+      "count": 34
+    },
+    {
+      "risk_factor": "High LDL cholesterol",
+      "phase": "PHASE3",
+      "count": 24
+    },
+    {
+      "risk_factor": "High body-mass index",
+      "phase": "EARLY_PHASE1",
+      "count": 5
+    },
+    {
+      "risk_factor": "High body-mass index",
+      "phase": "PHASE1",
+      "count": 9
+    },
+    {
+      "risk_factor": "High body-mass index",
+      "phase": "PHASE2",
+      "count": 14
+    },
+    {
+      "risk_factor": "High body-mass index",
+      "phase": "PHASE3",
+      "count": 7
+    },
+    {
+      "risk_factor": "High fasting plasma glucose",
+      "phase": "EARLY_PHASE1",
+      "count": 5
+    },
+    {
+      "risk_factor": "High fasting plasma glucose",
+      "phase": "PHASE1",
+      "count": 12
+    },
+    {
+      "risk_factor": "High fasting plasma glucose",
+      "phase": "PHASE2",
+      "count": 29
+    },
+    {
+      "risk_factor": "High fasting plasma glucose",
+      "phase": "PHASE3",
+      "count": 19
+    },
+    {
+      "risk_factor": "High systolic blood pressure",
+      "phase": "EARLY_PHASE1",
+      "count": 17
+    },
+    {
+      "risk_factor": "High systolic blood pressure",
+      "phase": "PHASE1",
+      "count": 42
+    },
+    {
+      "risk_factor": "High systolic blood pressure",
+      "phase": "PHASE2",
+      "count": 86
+    },
+    {
+      "risk_factor": "High systolic blood pressure",
+      "phase": "PHASE3",
+      "count": 98
+    },
+    {
+      "risk_factor": "Kidney dysfunction",
+      "phase": "EARLY_PHASE1",
+      "count": 4
+    },
+    {
+      "risk_factor": "Kidney dysfunction",
+      "phase": "PHASE1",
+      "count": 33
+    },
+    {
+      "risk_factor": "Kidney dysfunction",
+      "phase": "PHASE2",
+      "count": 30
+    },
+    {
+      "risk_factor": "Kidney dysfunction",
+      "phase": "PHASE3",
+      "count": 31
+    },
+    {
+      "risk_factor": "Metabolic risks",
+      "phase": "EARLY_PHASE1",
+      "count": 21
+    },
+    {
+      "risk_factor": "Metabolic risks",
+      "phase": "PHASE1",
+      "count": 85
+    },
+    {
+      "risk_factor": "Metabolic risks",
+      "phase": "PHASE2",
+      "count": 162
+    },
+    {
+      "risk_factor": "Metabolic risks",
+      "phase": "PHASE3",
+      "count": 146
+    }
+  ],
+  "trials_by_sponsor": [
+    {
+      "risk_factor": "High LDL cholesterol",
+      "sponsor_type": "Academic/Other",
+      "count": 31
+    },
+    {
+      "risk_factor": "High LDL cholesterol",
+      "sponsor_type": "Government/NIH",
+      "count": 1
+    },
+    {
+      "risk_factor": "High LDL cholesterol",
+      "sponsor_type": "Industry",
+      "count": 46
+    },
+    {
+      "risk_factor": "High body-mass index",
+      "sponsor_type": "Academic/Other",
+      "count": 17
+    },
+    {
+      "risk_factor": "High body-mass index",
+      "sponsor_type": "Government/NIH",
+      "count": 1
+    },
+    {
+      "risk_factor": "High body-mass index",
+      "sponsor_type": "Industry",
+      "count": 17
+    },
+    {
+      "risk_factor": "High fasting plasma glucose",
+      "sponsor_type": "Academic/Other",
+      "count": 44
+    },
+    {
+      "risk_factor": "High fasting plasma glucose",
+      "sponsor_type": "Government/NIH",
+      "count": 2
+    },
+    {
+      "risk_factor": "High fasting plasma glucose",
+      "sponsor_type": "Industry",
+      "count": 19
+    },
+    {
+      "risk_factor": "High systolic blood pressure",
+      "sponsor_type": "Academic/Other",
+      "count": 114
+    },
+    {
+      "risk_factor": "High systolic blood pressure",
+      "sponsor_type": "Government/NIH",
+      "count": 3
+    },
+    {
+      "risk_factor": "High systolic blood pressure",
+      "sponsor_type": "Industry",
+      "count": 126
+    },
+    {
+      "risk_factor": "Kidney dysfunction",
+      "sponsor_type": "Academic/Other",
+      "count": 46
+    },
+    {
+      "risk_factor": "Kidney dysfunction",
+      "sponsor_type": "Industry",
+      "count": 52
+    },
+    {
+      "risk_factor": "Metabolic risks",
+      "sponsor_type": "Academic/Other",
+      "count": 244
+    },
+    {
+      "risk_factor": "Metabolic risks",
+      "sponsor_type": "Government/NIH",
+      "count": 5
+    },
+    {
+      "risk_factor": "Metabolic risks",
+      "sponsor_type": "Industry",
+      "count": 165
+    }
+  ],
+  "trials_by_intervention": [
+    {
+      "risk_factor": "High LDL cholesterol",
+      "intervention_type": "Behavioral",
+      "count": 4
+    },
+    {
+      "risk_factor": "High LDL cholesterol",
+      "intervention_type": "Lifestyle/Other",
+      "count": 5
+    },
+    {
+      "risk_factor": "High LDL cholesterol",
+      "intervention_type": "Pharmacologic",
+      "count": 69
+    },
+    {
+      "risk_factor": "High body-mass index",
+      "intervention_type": "Behavioral",
+      "count": 2
+    },
+    {
+      "risk_factor": "High body-mass index",
+      "intervention_type": "Lifestyle/Other",
+      "count": 2
+    },
+    {
+      "risk_factor": "High body-mass index",
+      "intervention_type": "Pharmacologic",
+      "count": 31
+    },
+    {
+      "risk_factor": "High fasting plasma glucose",
+      "intervention_type": "Behavioral",
+      "count": 4
+    },
+    {
+      "risk_factor": "High fasting plasma glucose",
+      "intervention_type": "Lifestyle/Other",
+      "count": 6
+    },
+    {
+      "risk_factor": "High fasting plasma glucose",
+      "intervention_type": "Pharmacologic",
+      "count": 55
+    },
+    {
+      "risk_factor": "High systolic blood pressure",
+      "intervention_type": "Behavioral",
+      "count": 3
+    },
+    {
+      "risk_factor": "High systolic blood pressure",
+      "intervention_type": "Device",
+      "count": 2
+    },
+    {
+      "risk_factor": "High systolic blood pressure",
+      "intervention_type": "Lifestyle/Other",
+      "count": 11
+    },
+    {
+      "risk_factor": "High systolic blood pressure",
+      "intervention_type": "Pharmacologic",
+      "count": 227
+    },
+    {
+      "risk_factor": "Kidney dysfunction",
+      "intervention_type": "Device",
+      "count": 1
+    },
+    {
+      "risk_factor": "Kidney dysfunction",
+      "intervention_type": "Lifestyle/Other",
+      "count": 2
+    },
+    {
+      "risk_factor": "Kidney dysfunction",
+      "intervention_type": "Pharmacologic",
+      "count": 95
+    },
+    {
+      "risk_factor": "Metabolic risks",
+      "intervention_type": "Behavioral",
+      "count": 9
+    },
+    {
+      "risk_factor": "Metabolic risks",
+      "intervention_type": "Device",
+      "count": 7
+    },
+    {
+      "risk_factor": "Metabolic risks",
+      "intervention_type": "Lifestyle/Other",
+      "count": 25
+    },
+    {
+      "risk_factor": "Metabolic risks",
+      "intervention_type": "Pharmacologic",
+      "count": 373
+    }
+  ],
+  "trials_by_year": [
+    {
+      "year": 2020,
+      "risk_factor": "High LDL cholesterol",
+      "count": 12
+    },
+    {
+      "year": 2020,
+      "risk_factor": "High body-mass index",
+      "count": 8
+    },
+    {
+      "year": 2020,
+      "risk_factor": "High fasting plasma glucose",
+      "count": 17
+    },
+    {
+      "year": 2020,
+      "risk_factor": "High systolic blood pressure",
+      "count": 58
+    },
+    {
+      "year": 2020,
+      "risk_factor": "Kidney dysfunction",
+      "count": 15
+    },
+    {
+      "year": 2020,
+      "risk_factor": "Metabolic risks",
+      "count": 109
+    },
+    {
+      "year": 2021,
+      "risk_factor": "High LDL cholesterol",
+      "count": 25
+    },
+    {
+      "year": 2021,
+      "risk_factor": "High body-mass index",
+      "count": 10
+    },
+    {
+      "year": 2021,
+      "risk_factor": "High fasting plasma glucose",
+      "count": 20
+    },
+    {
+      "year": 2021,
+      "risk_factor": "High systolic blood pressure",
+      "count": 71
+    },
+    {
+      "year": 2021,
+      "risk_factor": "Kidney dysfunction",
+      "count": 31
+    },
+    {
+      "year": 2021,
+      "risk_factor": "Metabolic risks",
+      "count": 118
+    },
+    {
+      "year": 2022,
+      "risk_factor": "High LDL cholesterol",
+      "count": 22
+    },
+    {
+      "year": 2022,
+      "risk_factor": "High body-mass index",
+      "count": 6
+    },
+    {
+      "year": 2022,
+      "risk_factor": "High fasting plasma glucose",
+      "count": 13
+    },
+    {
+      "year": 2022,
+      "risk_factor": "High systolic blood pressure",
+      "count": 50
+    },
+    {
+      "year": 2022,
+      "risk_factor": "Kidney dysfunction",
+      "count": 27
+    },
+    {
+      "year": 2022,
+      "risk_factor": "Metabolic risks",
+      "count": 79
+    },
+    {
+      "year": 2023,
+      "risk_factor": "High LDL cholesterol",
+      "count": 9
+    },
+    {
+      "year": 2023,
+      "risk_factor": "High body-mass index",
+      "count": 8
+    },
+    {
+      "year": 2023,
+      "risk_factor": "High fasting plasma glucose",
+      "count": 9
+    },
+    {
+      "year": 2023,
+      "risk_factor": "High systolic blood pressure",
+      "count": 31
+    },
+    {
+      "year": 2023,
+      "risk_factor": "Kidney dysfunction",
+      "count": 13
+    },
+    {
+      "year": 2023,
+      "risk_factor": "Metabolic risks",
+      "count": 51
+    },
+    {
+      "year": 2024,
+      "risk_factor": "High LDL cholesterol",
+      "count": 7
+    },
+    {
+      "year": 2024,
+      "risk_factor": "High fasting plasma glucose",
+      "count": 4
+    },
+    {
+      "year": 2024,
+      "risk_factor": "High systolic blood pressure",
+      "count": 24
+    },
+    {
+      "year": 2024,
+      "risk_factor": "Kidney dysfunction",
+      "count": 10
+    },
+    {
+      "year": 2024,
+      "risk_factor": "Metabolic risks",
+      "count": 46
+    },
+    {
+      "year": 2025,
+      "risk_factor": "High LDL cholesterol",
+      "count": 3
+    },
+    {
+      "year": 2025,
+      "risk_factor": "High body-mass index",
+      "count": 3
+    },
+    {
+      "year": 2025,
+      "risk_factor": "High fasting plasma glucose",
+      "count": 2
+    },
+    {
+      "year": 2025,
+      "risk_factor": "High systolic blood pressure",
+      "count": 9
+    },
+    {
+      "year": 2025,
+      "risk_factor": "Kidney dysfunction",
+      "count": 2
+    },
+    {
+      "year": 2025,
+      "risk_factor": "Metabolic risks",
+      "count": 11
+    }
+  ],
+  "alignment": [
+    {
+      "risk_factor": "Metabolic risks",
+      "death_val": 602566.8396723141,
+      "burden_share": 0.3849520813,
+      "trial_count": 414,
+      "trial_share": 0.4437299035,
+      "alignment_score": 1.1526886723,
+      "priority_gap": -0.0587778222
+    },
+    {
+      "risk_factor": "High systolic blood pressure",
+      "death_val": 419925.5215127529,
+      "burden_share": 0.2682709915,
+      "trial_count": 243,
+      "trial_share": 0.2604501608,
+      "alignment_score": 0.970847274,
+      "priority_gap": 0.0078208307
+    },
+    {
+      "risk_factor": "High LDL cholesterol",
+      "death_val": 163894.7490462211,
+      "burden_share": 0.104704774,
+      "trial_count": 78,
+      "trial_share": 0.0836012862,
+      "alignment_score": 0.7984477019,
+      "priority_gap": 0.0211034878
+    },
+    {
+      "risk_factor": "High body-mass index",
+      "death_val": 153938.8009340568,
+      "burden_share": 0.0983443793,
+      "trial_count": 35,
+      "trial_share": 0.0375133976,
+      "alignment_score": 0.3814493306,
+      "priority_gap": 0.0608309816
+    },
+    {
+      "risk_factor": "High fasting plasma glucose",
+      "death_val": 118832.9650871471,
+      "burden_share": 0.0759168846,
+      "trial_count": 65,
+      "trial_share": 0.0696677385,
+      "alignment_score": 0.9176843706,
+      "priority_gap": 0.0062491461
+    },
+    {
+      "risk_factor": "Kidney dysfunction",
+      "death_val": 106144.6222010984,
+      "burden_share": 0.0678108893,
+      "trial_count": 98,
+      "trial_share": 0.1050375134,
+      "alignment_score": 1.5489770822,
+      "priority_gap": -0.0372266241
+    }
+  ],
+  "correlation": {
+    "spearman_rho": 0.6,
+    "p_value": 0.208,
+    "n": 6,
+    "interpretation": "Moderate alignment: research partially tracks disease burden."
+  },
+  "sankey_nodes": [
+    {
+      "id": "Pharmacologic",
+      "type": "intervention"
+    },
+    {
+      "id": "Behavioral",
+      "type": "intervention"
+    },
+    {
+      "id": "Device",
+      "type": "intervention"
+    },
+    {
+      "id": "Lifestyle/Other",
+      "type": "intervention"
+    },
+    {
+      "id": "Metabolic risks",
+      "type": "risk_factor"
+    },
+    {
+      "id": "High systolic blood pressure",
+      "type": "risk_factor"
+    },
+    {
+      "id": "High LDL cholesterol",
+      "type": "risk_factor"
+    },
+    {
+      "id": "High body-mass index",
+      "type": "risk_factor"
+    },
+    {
+      "id": "High fasting plasma glucose",
+      "type": "risk_factor"
+    },
+    {
+      "id": "Kidney dysfunction",
+      "type": "risk_factor"
+    },
+    {
+      "id": "CVD Burden",
+      "type": "burden"
+    }
+  ],
+  "sankey_links": [
+    {
+      "source": 1,
+      "target": 6,
+      "value": 4
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 2
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 4
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 3
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 9
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 2
+    },
+    {
+      "source": 2,
+      "target": 9,
+      "value": 1
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 7
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 5
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 2
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "value": 6
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 11
+    },
+    {
+      "source": 3,
+      "target": 9,
+      "value": 2
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 25
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 69
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 31
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 55
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 227
+    },
+    {
+      "source": 0,
+      "target": 9,
+      "value": 95
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 373
+    },
+    {
+      "source": 4,
+      "target": 10,
+      "value": 602566
+    },
+    {
+      "source": 5,
+      "target": 10,
+      "value": 419925
+    },
+    {
+      "source": 6,
+      "target": 10,
+      "value": 163894
+    },
+    {
+      "source": 7,
+      "target": 10,
+      "value": 153938
+    },
+    {
+      "source": 8,
+      "target": 10,
+      "value": 118832
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 106144
+    }
+  ]
+}
